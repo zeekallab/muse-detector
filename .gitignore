@@ -1,0 +1,7 @@
+*.log
+*.pcap
+*.pcapng
+*.har
+*.bundle
+__pycache__/
+.DS_Store

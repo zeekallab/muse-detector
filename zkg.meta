@@ -1,0 +1,6 @@
+[package]
+description = Experimental Muse network evidence detector; requires site-supplied indicators, none bundled
+version = 0.1.0
+script_dir = scripts
+depends = zeek >=9.0.0
+test_command = python3 tests/test_detector.py
